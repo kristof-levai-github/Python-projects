@@ -1,0 +1,7 @@
+Write a C program that reads two integers and prints the division result in the following format: dividend / divisor = quotient, remainder: x.
+Solve the same problem for real (double type) numbers as well. To calculate the division remainder, use the math.h function double fmod(double, double).
+
+Example input:
+101, 2
+Example output:
+101 / 2 = 50, remainder: 1
