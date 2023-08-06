@@ -1,0 +1,4 @@
+Let's consider Pythagorean triples from 1 to 100. These are the positive integers that can form the sides of a triangle, satisfying the triangle inequality:
+a < b < c and c ≤ 100.
+Which is the triple for which the difference between a, b, and c is 10?
+Write this triple in the following format: p, q, r (where p, q, and r are the respective numbers, and the difference between them is 10).
