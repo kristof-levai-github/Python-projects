@@ -1,0 +1,4 @@
+Declare a character array of size 50 and read any text that may contain spaces. 
+Convert this text to lowercase and uppercase separately in separate functions.
+
+Use the provided code skeleton, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
