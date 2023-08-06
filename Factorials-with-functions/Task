@@ -1,0 +1,27 @@
+Write functions for the controlled input of an integer and for calculating the factorial of an integer. The number should be within the interval [0, 10]. 
+In case of unsuccessful input, the function should print "Invalid input" and request the value again until the user provides correct input.
+Use the provided code skeleton for the solution, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
+
+Tests:
+InvalidInput_nan_test
+• Inputs:
+a
+5
+• Expected output: Invalid input (included)
+
+InvalidInput_negativ_test
+• Inputs:
+-5
+5
+• Expected output: Invalid input (included)
+
+InvalidInput_large_test
+• Inputs:
+20
+5
+• Expected output: Invalid input (included)
+
+The test.c file contains CUnit tests:
+Tested function Parameter Expected return value
+factor 0 1
+factor 5 120
