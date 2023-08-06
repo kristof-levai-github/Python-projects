@@ -1,4 +1,4 @@
-Write a C program that prompts the user to enter an operation and performs the calculation.
+Write a Python program that prompts the user to enter an operation and performs the calculation.
 Supported operations: addition, subtraction, multiplication, division, modulo.
 Example input:
 5+2
