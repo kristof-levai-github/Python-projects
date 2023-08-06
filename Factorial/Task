@@ -1,0 +1,5 @@
+Write a python program to calculate the factorial of a positive value N entered by the user and print the result! 
+Test to see how large N can be to fit the result in an int type variable. Limit the value of N accordingly during input.
+Display the following error message for invalid input: "Invalid input." Perform the task again, but this time store the result in a variable of type long.
+
+Note that 0! = 1.
