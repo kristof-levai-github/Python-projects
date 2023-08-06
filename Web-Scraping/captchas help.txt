@@ -1,0 +1,47 @@
+-change HTTP headers for each request 
+-adjust the viewport to human like 
+-change ip address between request (proxy)
+
+If neccesary to solve captchas: 
+https://www.imperva.com/learn/application-security/what-is-captcha/
+
+types of captchas: 
+3 main types: 
+	- text-based
+	- image-based
+	- audio-based
+
+Text-based:
+Techniques for creating text-based CAPTCHAs include:
+
+    Gimpy—chooses an arbitrary number of words from an 850-word dictionary and provides those words in a distorted fashion.
+
+    EZ-Gimpy—is a variation of Gimpy that uses only one word.
+
+    Gimpy-r—selects random letters, then distorts and adds background noise to characters.
+
+    Simard’s HIP—selects random letters and numbers, then distorts characters with arcs and colors.
+
+auido based and image based: 
+	egy szöveget kell vissza írni / kiválasztani pár képet, az a tipikus
+
+
+No CAPTCHA ReCAPTCHA (im not a robot box)
+
+This type of CAPTCHA, known for its use by Google, is much easier for users than most other types. It provides a checkbox saying “I am not a robot” which users need to select – and that’s all. It works by tracking user movements and identifying if the click and other user activity on the page resembles human activity or a bot. If the test fails, reCAPTCHA provides a traditional image selection CAPTCHA, but in most cases the checkbox test suffices to validate the user.
+
++slider captcha (GEETEST captcha)
+solution (selenium): https://www.youtube.com/watch?v=cT_lp8AKJJs
+
+
+
+Solutions: 
+https://www.browserstack.com/guide/how-to-handle-captcha-in-selenium
+While automating Captcha is not the best practice, there are three efficient ways of handling Captcha in Selenium:
+
+    By disabling the Captcha in the testing environment
+    Adding a hook to click the Captcha checkbox
+    By adding a delay to the Webdriver and manually solve Captcha while testing
+
+
+https://pypi.org/project/selenium-recaptcha-solver/
