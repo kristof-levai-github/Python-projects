@@ -1,0 +1,26 @@
+Write a python program that reads a base and an exponent in a controlled manner, each in a separate function (both must be non-zero positive integers).
+Implement a function that performs exponentiation iteratively. Do not use the standard pow() function to solve the task. 
+In case of incorrect input, print: Invalid input.
+Use the provided code skeleton for the solution, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
+
+Tests:
+InvalidInput_nan_test
+• Inputs:
+a
+5
+2
+• Expected output: Invalid input (included)
+
+InvalidInput_negativ_test
+• Inputs:
+-5
+5
+2
+• Expected output: Invalid input (included)
+
+InvalidInput_0_test
+• Inputs:
+0
+0
+1
+• Expected output: Invalid input (included)
