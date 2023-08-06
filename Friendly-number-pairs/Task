@@ -1,0 +1,23 @@
+Read an interval in a controlled manner (input two integers in separate lines, where the lower bound is smaller than the upper bound). Then, within this interval, find the friendly number pairs. 
+In case of incorrect input, print: Invalid input.
+For friendly number pairs, the sum of proper divisors of one number equals the other number, and vice versa. E.g.: (220, 284), (1184, 1210), (2620, 2924), (5020, 5564), (6232, 6368).
+
+Example input:
+1
+500
+Example output:
+(220, 284)
+
+Tests:
+InvalidInput_interval_test
+• Inputs:
+7
+2
+500
+• Expected output: Invalid input (included)
+InvalidInput_nan_test
+• Inputs:
+a
+5
+500
+• Expected output: Invalid input (included)
