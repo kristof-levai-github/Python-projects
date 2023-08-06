@@ -1,0 +1,17 @@
+Write a python program that prompts the user to enter a character and then determines whether it is part of the alphabet and whether it is a vowel or a consonant. 
+Print the result!
+
+Example input when the character is part of the alphabet and a consonant:
+t
+Example output when the character is part of the alphabet and a consonant:
+t consonant
+
+Example input when the character is part of the alphabet and a vowel:
+o
+Example output when the character is part of the alphabet and a vowel:
+o vowel
+
+Example input when the character is not part of the alphabet:
+@
+Example output:
+@ not in the English alphabet
