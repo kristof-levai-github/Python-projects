@@ -1,8 +1,0 @@
-Request two integers separated by a comma (in a controlled manner), then swap them using a function. Print the values of the variables after the swap, separated by a comma.
-In case of incorrect input, print: Invalid input.
-Use the provided code skeleton for the solution, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
-
-Example input:
-5, 10
-Example output:
-10, 5
