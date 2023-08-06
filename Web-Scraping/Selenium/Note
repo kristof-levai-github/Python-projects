@@ -1,0 +1,4 @@
+Selenium is a popular web automation and testing framework that can also be used for web scraping.
+It allows you to automate interactions with web browsers, including Chrome, Firefox, Safari, and others.
+Selenium can programmatically control a browser, navigate web pages, interact with page elements, and retrieve data from websites.
+While it's often used for web testing and automating repetitive tasks, it's also a valuable tool for web scraping when other traditional scraping methods like parsing HTML with BeautifulSoup or using requests are not sufficient.
