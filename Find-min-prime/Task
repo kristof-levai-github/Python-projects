@@ -1,0 +1,3 @@
+Request 10 positive integers, and store them in an array.
+Find the smallest prime number in this array.
+If found, print the value. If not found, print: Not found.
