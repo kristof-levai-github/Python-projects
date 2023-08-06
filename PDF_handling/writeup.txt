@@ -1,0 +1,9 @@
+pip install pypdf
+from pypdf import PdfReader
+
+pip install pdfplumber
+import pdfplumber
+
+pip install pymupdf
+import fitz 
+
