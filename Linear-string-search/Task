@@ -1,0 +1,12 @@
+Declare and initialize a character array of size 50 with any character sequence.
+Implement a linear search procedure to find a character entered by the user in this array.
+
+The return value of the search function is 0 if the searched character is not present in the array, otherwise, it is the index of the searched character.
+
+Use the provided code skeleton, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
+
+The test.c file contains CUnit tests:
+Tested function Parameter Expected return value
+search 'd', "abc" 4
+search 'z', "abc" 26
+search '5', "abc" 0
