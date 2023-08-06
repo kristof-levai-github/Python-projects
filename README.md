@@ -8,6 +8,8 @@ In this repository, you'll find a collection of Python projects, each residing i
 
 Feel free to explore the folders and source code to gain insights into my learning process and how my Python skills have evolved over time. While some projects may be small and focused on specific concepts, others may represent more ambitious undertakings that demonstrate my growing proficiency in Python.
 
+__note: the repository isn't finished yet
+
 # Contributions
 
 As this repository is a personal showcase of my Python projects and learning progress, I am not actively accepting contributions directly to this repository. However, I welcome any feedback, suggestions, or discussions related to the projects.
