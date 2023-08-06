@@ -1,0 +1,4 @@
+Python-based game designed for Piano Tiles 2.
+
+how to install required modules:
+  - pip install -r requirements.txt
