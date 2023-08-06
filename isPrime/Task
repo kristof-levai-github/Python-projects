@@ -1,0 +1,11 @@
+Write a python program that prompts the user to enter an integer and then prints whether the given number is a prime number or not.
+
+Example input for a prime number:
+2017
+Example output for a prime number:
+2017 is prime.
+
+Example input for a non-prime number:
+4605
+Example output for a non-prime number:
+4605 is not prime.
