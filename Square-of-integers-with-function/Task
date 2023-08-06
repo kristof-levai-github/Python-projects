@@ -1,0 +1,10 @@
+Write a Python program that calculates the square of an integer read in a controlled manner. Implement the individual subtasks in separate functions.
+In case of incorrect input, print: Invalid input.
+Use the provided code skeleton for the solution, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
+
+Tests:
+InvalidInput_test
+• Inputs:
+a
+2
+• Expected output: Invalid input (included)
