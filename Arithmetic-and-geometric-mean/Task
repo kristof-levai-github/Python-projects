@@ -1,0 +1,8 @@
+Create a C program that calculates the arithmetic and geometric mean of two positive numbers. 
+The code should work for real (decimal) numbers as well. Print the results!
+
+To calculate the arithmetic mean of two numbers x and y:
+Arithmetic Mean = (x + y) / 2
+
+To calculate the geometric mean of two numbers x and y:
+Geometric Mean = sqrt(x * y)
