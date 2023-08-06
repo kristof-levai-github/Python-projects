@@ -1,0 +1,7 @@
+Write a Python program that prompts the user to enter a character string and then prints the percentage of vowels in the given text.
+
+Example input:
+Hello, World!
+
+Example output:
+Percentage of vowels: 33.33%
