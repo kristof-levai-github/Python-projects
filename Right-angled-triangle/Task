@@ -1,0 +1,3 @@
+Write a Python program that calculates the hypotenuse of a right-angled triangle based on the lengths of its two legs. 
+The user should provide the values of the two legs. 
+Use the function double pow(double, double) declared in math.h to perform the exponentiation. Display the result!
