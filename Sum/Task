@@ -1,0 +1,8 @@
+Ask for a number (N) and calculate the sum of numbers from 1 to N. Print the result!
+
+Example input:
+8
+Example output:
+36
+
+The program takes the number 8 as input and calculates the sum of the numbers from 1 to 8, which is 36.
