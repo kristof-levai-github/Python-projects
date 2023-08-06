@@ -1,0 +1,22 @@
+Request a positive integer (N > 1) in a controlled manner and count how many perfect numbers there are from 1 to N.
+A perfect number is a number that equals the sum of its proper divisors (e.g., 6 = 1 + 2 + 3; 28, 496, 8128, etc.).
+In case of incorrect input, print: Invalid input.
+
+Use the provided code skeleton for the solution, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
+
+Tests:
+InvalidInput_nan_test
+• Inputs:
+a
+25
+• Expected output: Invalid input (included)
+InvalidInput_negativ_test
+• Inputs:
+-5
+25
+• Expected output: Invalid input (included)
+InvalidInput_0_test
+• Inputs:
+0
+25
+• Expected output: Invalid input (included)
