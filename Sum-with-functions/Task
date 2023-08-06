@@ -1,0 +1,10 @@
+Write a python program that calculates the sum of the digits of an integer read in a controlled manner. 
+In case of incorrect input, print: Invalid input.
+Use the provided code skeleton for the solution, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
+
+Tests:
+InvalidInput_test
+• Inputs:
+a
+58
+• Expected output: Invalid input (included)
