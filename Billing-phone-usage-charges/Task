@@ -1,0 +1,6 @@
+"Write a program suitable for billing phone usage charges. Calculate the phone usage charges after N calls, categorized by call types (1-foreign, 2-outside network, 3-inside network). The call duration should be provided by the user in minutes.
+Tariffs: foreign calls 100 HUF/minute, outside network calls 60 HUF/minute, inside network calls 40 HUF/minute.
+Display the total amount of the bill."
+
+This program would allow users to input the number of calls made for each call type (foreign, outside network, inside network) and their respective call durations in minutes.
+The program would then calculate the total charges based on the given tariffs and display the final bill amount.
