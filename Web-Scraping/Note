@@ -1,0 +1,5 @@
+Web scraping is the process of automatically extracting data from websites.
+It involves using software tools or scripts to access web pages, retrieve the desired information, and save it in a structured format (such as a spreadsheet or database).
+Web scraping is commonly used to gather data from various sources on the internet for analysis, research, or other purposes.
+
+In this directory, I collected the scripts that helped me understand the basics and concepts of web scraping.
