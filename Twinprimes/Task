@@ -1,0 +1,16 @@
+Request a positive integer (N > 1) in a controlled manner and count how many twin prime number pairs there are from 1 to N.
+In case of incorrect input, print: Invalid input.
+ATTENTION! 1 is not a prime number, so (1, 3) is not a twin prime number pair.
+Twin primes are prime number pairs that differ by 2, e.g., (5, 7).
+Use the provided code skeleton for the solution, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
+
+Tests:
+InvalidInput_nan_test
+• Inputs: a
+• Expected output: Invalid input (included)
+InvalidInput_negativ_test
+• Inputs: -5
+• Expected output: Invalid input (included)
+InvalidInput_0_test
+• Inputs: 0
+• Expected output: Invalid input (included)
