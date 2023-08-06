@@ -1,0 +1,3 @@
+We keep track of the EURO exchange rate for a quarter (HUF / EUR) on a weekly basis. Read 12 positive real values (e.g., 408.15) into an array in a controlled manner.
+If incorrect data is provided, the program should prompt to enter the element again.
+After validating the elements, display how many times during the quarter the exchange rate value was below 400 HUF.
