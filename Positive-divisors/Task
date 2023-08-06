@@ -1,0 +1,2 @@
+Write a python program that prompts the user to enter a positive number and then counts its positive divisors.
+Print the result! In case of invalid input, display: Invalid input.
