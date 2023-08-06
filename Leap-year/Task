@@ -1,0 +1,4 @@
+Ask for two years separated by a comma, then count the number of leap years within the interval. Print the result!
+
+A leap year is a year that is divisible by 4, except for years that are divisible by 100 but not divisible by 400.
+For example, the year 2000 was a leap year because it is divisible by 4 and 400, but the year 1900 was not a leap year because it is divisible by 4 and 100 but not divisible by 400.
