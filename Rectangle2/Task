@@ -1,0 +1,3 @@
+Create a python program that prompts the user to enter the lengths of three sides of a rectangular parallelepiped (cuboid).
+Calculates its surface area (A = 2 * (ab + ac + bc)) and volume (V = ab*c).
+Display the result!
