@@ -1,0 +1,3 @@
+Provide a verified data input to specify an interval (lower bound < upper bound).
+Then, read N numbers and count how many of the given numbers fall within the interval.
+Display the result!
