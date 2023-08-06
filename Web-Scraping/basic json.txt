@@ -1,0 +1,35 @@
+https://www.youtube.com/watch?v=9N6a-VLBa2I
+-15:12 -> len access 
+
+''' JavaScript Object Notation '''
+import json
+
+with open('states.json') as f:
+  data = json.load(f)
+
+for state in data['states']:
+  del state['area_codes']
+
+for state in data['states']:
+    print(state['name'], state['abbreviation'])
+
+with open('new_states.json', 'w') as f:
+  json.dump(data, f, indent=2) #dumps = json-string | dump = json file
+
+
+##======================================
+data = json.loads(source file)
+print(json.dumps(data, indent=2))
+
+https://www.w3schools.com/python/python_json.asp
+
+Python 	JSON
+dict 	Object
+list 	Array
+tuple 	Array
+str 	String
+int 	Number
+float 	Number
+True 	true
+False 	false
+None 	null
