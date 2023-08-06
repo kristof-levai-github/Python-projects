@@ -1,0 +1,4 @@
+Declare a character array of size 50 and read a text that may contain spaces. 
+Determine if it is a palindrome (equals its reverse)! For example, "Géza kék az ég" is a palindrome.
+Solve the task so that it works for text with spaces as well.
+Use the provided code skeleton, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
