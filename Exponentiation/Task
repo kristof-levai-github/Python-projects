@@ -1,0 +1,3 @@
+Ask for 2 values separated by a comma, then perform exponentiation and print the result.
+Ensure that both of the 2 input numbers are non-negative.
+Display "Invalid input" for incorrect input. Handle the case where the exponent is 0.
