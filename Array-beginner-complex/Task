@@ -1,0 +1,5 @@
+Fill a 20-element integer array with numbers between -1000 and 1000 using validated input.
+Perform the following tasks on the array:
+a) Separate the elements of the array into positive and negative numbers.
+b) Calculate the averages of the subarrays.
+c) Finally, request a number and determine whether it is an element of the array. If it is, print the position of the element in the following format: The searched value is the 5th element of the array. If it is not an element, print: The searched value is not an element of the array.
