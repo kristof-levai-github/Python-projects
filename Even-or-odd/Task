@@ -1,0 +1,11 @@
+Ask for a number and determine whether it is even or odd! Print the result!
+
+Example input for an odd number:
+5
+Example output:
+odd
+
+Example input for an even number:
+44
+Example output:
+even
