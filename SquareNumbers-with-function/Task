@@ -1,0 +1,17 @@
+Request a positive integer (N) in a controlled manner and count how many square numbers there are from 0 to N.
+A square number is a number that is a perfect square of an integer (e.g., 0, 1, 4, 9, 16, 25, etc.). 
+In case of incorrect input, print: Invalid input.
+
+Use the provided code skeleton for the solution, and ensure that the return type, function name (identifier), and parameter list of the functions adhere to the given requirements.
+
+Tests:
+InvalidInput_nan_test
+• Inputs:
+a
+25
+• Expected output: Invalid input (included)
+InvalidInput_negativ_test
+• Inputs:
+-5
+25
+• Expected output: Invalid input (included)
